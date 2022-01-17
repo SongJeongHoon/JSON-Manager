@@ -1,0 +1,77 @@
+﻿  pch.cpp
+  JsonManager.cpp
+  FolderManager.cpp
+  jsoncpp.cpp
+  SaveLoadProject.cpp
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(93,33): warning C4244: '인수': 'double'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\MainEntry\SaveLoadProject.cpp(59): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<std::string,int,int,double,float,bool,UINT>(std::string,std::string,UINT,T &,int &,int &,double &,float &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=std::string
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(93,33): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=int
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<int,int,double,float,bool,UINT>(std::string,std::string,UINT,T &,int &,double &,float &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\MainEntry\SaveLoadProject.cpp(59): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<std::string,int,int,double,float,bool,UINT>(std::string,std::string,UINT,T &,int &,int &,double &,float &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=std::string
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(90,30): warning C4244: '=': 'Json::Value::Int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<float,bool,UINT>(std::string,std::string,UINT,T &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<double,float,bool,UINT>(std::string,std::string,UINT,T &,float &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=double
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<int,double,float,bool,UINT>(std::string,std::string,UINT,T &,double &,float &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(93,33): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(93,33): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=UINT
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<UINT,>(std::string,std::string,UINT,T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=UINT
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<bool,UINT>(std::string,std::string,UINT,T &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=bool
+          ]
+C:\Users\calf3\Downloads\GA2020\SystemProgramming\SaveLoadProject\Managers\JsonManager.h(80): message : 컴파일되는 함수 템플릿 인스턴스화 'void JsonManager::LoadDataFromJsonType<float,bool,UINT>(std::string,std::string,UINT,T &,bool &,UINT &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+  코드를 생성하고 있습니다...
+  SaveLoadProject.vcxproj -> C:\Users\calf3\Downloads\GA2020\SystemProgramming\x64\Debug\SaveLoadProject.exe
